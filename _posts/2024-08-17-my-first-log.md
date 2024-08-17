@@ -1,12 +1,21 @@
 ---
 layout: post
-title: 博客的标题
-categories: [技术, 架构]
-tags: [java, 架构]
+title: 用Jekyll构建个人博客站点
+categories: [工具]
+tags: [博客, Jekyll, Ruby]
 
 ---
-# 第一篇博客
 
-[链接](https://github.com/Pylol)
+# 微服务架构
 
-自动
+【总结区】
+
+【笔记区】
+
+[microservice note](https://www.notion.so/microservice-note-622d11d6097649ccbd43b690026d53e3?pvs=21)
+
+【资料区】
+
+### Microservice.io
+
+[What are microservices?](https://microservices.io/)
