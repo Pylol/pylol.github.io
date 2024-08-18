@@ -19,7 +19,7 @@ timezone:
 
 title: 浪潮里的小鱼儿 # the main title
 
-tagline: 糊糊涂涂；捉摸不透 # it will display as the sub-title
+tagline: 学而不思则罔，思而不学则殆 # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
